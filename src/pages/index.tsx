@@ -29,7 +29,8 @@ export default function HomePage() {
             >
               <a
                 href='https://drive.google.com/file/d/19qXl4oVI8c_ktK98FDZVm9_hcBYuRDe8/view?usp=share_link'
-                download
+                target='_blank'
+                rel='noreferrer'
               >
                 Загрузить установщик
               </a>
